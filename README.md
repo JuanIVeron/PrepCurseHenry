@@ -1,2 +1,2 @@
 # PrepCurseHenry
-Repositorio como proyecto del Prep Curse de Henry
+Este proyecto es una prueba
